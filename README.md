@@ -72,16 +72,3 @@ for the development.
   as many common parts as possible!
 - Do not spend much time on input checking. This time it is not
   a problem if a badly formatted data breaks your code.
-
-## Starting your project
-
-To start your project click [this link](https://journey.code.cool/v2/project/team/blueprint/secure-erp/python), and make sure to **select or create your team**.
-
-## Background materials
-
-- :exclamation: [MVC explained](https://www.freecodecamp.org/news/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053/)
-- :exclamation: [About Python modules](https://realpython.com/python-modules-packages/)
-  (until the section "Python Packages")
-- :exclamation: [File handling](https://learn.code.cool/full-stack/#/../pages/python/file-handling)
-- :exclamation: [Magic numbers](https://learn.code.cool/full-stack/#/../pages/general/magic-numbers)
-- :exclamation: [Clean code](https://learn.code.cool/full-stack/#/../pages/general/clean-code)
